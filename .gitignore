@@ -15,5 +15,7 @@
 .DS_Store
 .prettierignore
 
-.vscode
+.vscode/*
 preview.jpg
+
+src/compare.*
